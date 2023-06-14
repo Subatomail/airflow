@@ -1347,3 +1347,57 @@
 [2023-06-14T18:50:58.624+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:50:58.623+0000] {dag.py:2726} INFO - Sync 1 DAGs
 [2023-06-14T18:50:58.670+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:50:58.670+0000] {dag.py:3490} INFO - Setting next_dagrun for dag_avec_scheduler to 2023-06-13T22:00:00+00:00, run_after=2023-06-14T22:00:00+00:00
 [2023-06-14T18:50:58.704+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_avec_scheduler.py took 0.155 seconds
+[2023-06-14T18:51:29.382+0000] {processor.py:157} INFO - Started process (PID=1119) to work on /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:51:29.384+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_avec_scheduler.py for tasks to queue
+[2023-06-14T18:51:29.385+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:51:29.385+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:51:29.401+0000] {processor.py:836} INFO - DAG(s) dict_keys(['dag_avec_scheduler']) retrieved from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:51:29.457+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:51:29.456+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-14T18:51:29.505+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:51:29.505+0000] {dag.py:3490} INFO - Setting next_dagrun for dag_avec_scheduler to 2023-06-13T22:00:00+00:00, run_after=2023-06-14T22:00:00+00:00
+[2023-06-14T18:51:29.553+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_avec_scheduler.py took 0.175 seconds
+[2023-06-14T18:52:00.225+0000] {processor.py:157} INFO - Started process (PID=1159) to work on /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:52:00.227+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_avec_scheduler.py for tasks to queue
+[2023-06-14T18:52:00.228+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:52:00.228+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:52:00.246+0000] {processor.py:836} INFO - DAG(s) dict_keys(['dag_avec_scheduler']) retrieved from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:52:00.303+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:52:00.303+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-14T18:52:00.360+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:52:00.359+0000] {dag.py:3490} INFO - Setting next_dagrun for dag_avec_scheduler to 2023-06-13T22:00:00+00:00, run_after=2023-06-14T22:00:00+00:00
+[2023-06-14T18:52:00.399+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_avec_scheduler.py took 0.180 seconds
+[2023-06-14T18:52:31.293+0000] {processor.py:157} INFO - Started process (PID=1203) to work on /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:52:31.295+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_avec_scheduler.py for tasks to queue
+[2023-06-14T18:52:31.296+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:52:31.296+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:52:31.313+0000] {processor.py:836} INFO - DAG(s) dict_keys(['dag_avec_scheduler']) retrieved from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:52:31.365+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:52:31.364+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-14T18:52:31.414+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:52:31.414+0000] {dag.py:3490} INFO - Setting next_dagrun for dag_avec_scheduler to 2023-06-13T22:00:00+00:00, run_after=2023-06-14T22:00:00+00:00
+[2023-06-14T18:52:31.457+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_avec_scheduler.py took 0.170 seconds
+[2023-06-14T18:53:02.124+0000] {processor.py:157} INFO - Started process (PID=1245) to work on /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:53:02.126+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_avec_scheduler.py for tasks to queue
+[2023-06-14T18:53:02.127+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:53:02.127+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:53:02.144+0000] {processor.py:836} INFO - DAG(s) dict_keys(['dag_avec_scheduler']) retrieved from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:53:02.187+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:53:02.187+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-14T18:53:02.224+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:53:02.224+0000] {dag.py:3490} INFO - Setting next_dagrun for dag_avec_scheduler to 2023-06-13T22:00:00+00:00, run_after=2023-06-14T22:00:00+00:00
+[2023-06-14T18:53:02.257+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_avec_scheduler.py took 0.137 seconds
+[2023-06-14T18:53:32.883+0000] {processor.py:157} INFO - Started process (PID=1287) to work on /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:53:32.885+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_avec_scheduler.py for tasks to queue
+[2023-06-14T18:53:32.886+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:53:32.886+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:53:32.899+0000] {processor.py:836} INFO - DAG(s) dict_keys(['dag_avec_scheduler']) retrieved from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:53:32.951+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:53:32.951+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-14T18:53:32.987+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:53:32.987+0000] {dag.py:3490} INFO - Setting next_dagrun for dag_avec_scheduler to 2023-06-13T22:00:00+00:00, run_after=2023-06-14T22:00:00+00:00
+[2023-06-14T18:53:33.024+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_avec_scheduler.py took 0.146 seconds
+[2023-06-14T18:54:03.586+0000] {processor.py:157} INFO - Started process (PID=1329) to work on /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:54:03.588+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_avec_scheduler.py for tasks to queue
+[2023-06-14T18:54:03.589+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:54:03.589+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:54:03.601+0000] {processor.py:836} INFO - DAG(s) dict_keys(['dag_avec_scheduler']) retrieved from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:54:03.649+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:54:03.649+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-14T18:54:03.690+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:54:03.690+0000] {dag.py:3490} INFO - Setting next_dagrun for dag_avec_scheduler to 2023-06-13T22:00:00+00:00, run_after=2023-06-14T22:00:00+00:00
+[2023-06-14T18:54:03.724+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_avec_scheduler.py took 0.142 seconds
+[2023-06-14T18:54:34.384+0000] {processor.py:157} INFO - Started process (PID=1370) to work on /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:54:34.386+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_avec_scheduler.py for tasks to queue
+[2023-06-14T18:54:34.387+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:54:34.387+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:54:34.402+0000] {processor.py:836} INFO - DAG(s) dict_keys(['dag_avec_scheduler']) retrieved from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:54:34.445+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:54:34.445+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-14T18:54:34.488+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:54:34.488+0000] {dag.py:3490} INFO - Setting next_dagrun for dag_avec_scheduler to 2023-06-13T22:00:00+00:00, run_after=2023-06-14T22:00:00+00:00
+[2023-06-14T18:54:34.519+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dag_avec_scheduler.py took 0.140 seconds
+[2023-06-14T18:55:05.382+0000] {processor.py:157} INFO - Started process (PID=1412) to work on /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:55:05.384+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/dag_avec_scheduler.py for tasks to queue
+[2023-06-14T18:55:05.385+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:55:05.385+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:55:05.405+0000] {processor.py:836} INFO - DAG(s) dict_keys(['dag_avec_scheduler']) retrieved from /opt/airflow/dags/dag_avec_scheduler.py
+[2023-06-14T18:55:05.466+0000] {logging_mixin.py:149} INFO - [2023-06-14T18:55:05.466+0000] {dag.py:2726} INFO - Sync 1 DAGs
